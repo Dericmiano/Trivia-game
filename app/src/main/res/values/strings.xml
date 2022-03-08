@@ -1,0 +1,15 @@
+<resources>
+    <string name="app_name">Trivia</string>
+    <string name="title_text">Trivia</string>
+    <string name="out_of_text">Question:45/67</string>
+    <string name="true_button">True</string>
+<!--    <String name="correct_answer" >Correct</String>-->
+<!--    <String name="inCorrect" >incorrect</String>-->
+    <string name="false_button">False</string>
+    <string name="next_button">Next</string>
+    <string name="placeholder">hello where your questions will appear</string>
+    <string name="correct_answer">correct</string>
+    <string name="inCorrect">incorrect</string>
+    <string name="score"></string>
+    <string name="highest_score"></string>
+</resources>
